@@ -9,6 +9,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.ReadLine();
+
+        //Ccamel Case, firtName variable
+        //Pascal Cae: FirstName constants
+        //HungarianNotation strFirstName
         }
     }
 }
